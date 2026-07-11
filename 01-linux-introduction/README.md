@@ -27,7 +27,7 @@ Since Linux is open-source, there are different versions (called **Distros**) ma
 
 Linux doesn't let users interact directly with the computer hardware for security reasons. Instead, it uses a layered architecture:
 
-```text
+
   ┌─────────────────────────────────────────────────────────┐
   │                   User / Applications                   │  ← Web Browsers, Visual Studio Code, Git
   └────────────────────────────┬────────────────────────────┘
@@ -44,21 +44,21 @@ Linux doesn't let users interact directly with the computer hardware for securit
   │                        Hardware                         │  ← CPU, RAM, Hard Drives, GPU
   └─────────────────────────────────────────────────────────┘
 
-  ## 💻 My Lab Environment
+## 💻 My Lab Environment
 *   **OS:** Ubuntu
 *   **Environment:** Oracle VM VirtualBox (Virtual Machine)
 
 ---
 
 ## 🛠️ Let's Practice: Core Linux Commands
-Open your terminal in **Ubuntu (`Ctrl + Alt + T`)** inside your **VirtualBox** and practice these basic commands:
+ Open your terminal in **Ubuntu (`Ctrl + Alt + T`)** inside your **VirtualBox** and practice these basic commands:
 
-| Command | Description | What it shows |
-| :--- | :--- | :--- |
-| `uname -a` | System Info | Displays the Linux kernel version and OS architecture. |
-| `hostname` | Network Name | Shows the name assigned to your Virtual Machine. |
-| `whoami` | User Identity | Prints the username of the account you are currently using. |
-| `pwd` | Print Working Directory | Shows the exact folder path you are currently inside. |
+ | Command | Description | What it shows |
+ | :--- | :--- | :--- |
+ | `uname -a` | System Info | Displays the Linux kernel version and OS architecture. |
+ | `hostname` | Network Name | Shows the name assigned to your Virtual Machine. |
+ | `whoami` | User Identity | Prints the username of the account you are currently using. |
+ | `pwd` | Print Working Directory | Shows the exact folder path you are currently inside. |
 
 ---
-*Happy Learning! Keep practicing. *
+*Happy Learning! Keep practicing.*
