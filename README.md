@@ -17,4 +17,4 @@ This repository contains my Linux Fundamentals learning journey.
 - GitHub
 
 ## Goal
-Build a strong Linux foundation for DevOps, Cloud and SRE.
+Build a strong Linux foundation 

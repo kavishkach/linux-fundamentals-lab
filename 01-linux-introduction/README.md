@@ -9,7 +9,7 @@ To understand Linux, we first need to understand what an **Operating System (OS)
 ### Open-Source vs. Proprietary:
 Unlike Windows or macOS (Proprietary/Closed Source), Linux is **Open-Source**. This means its source code is public. Anyone can inspect it, modify it to fix bugs, add features, and redistribute it legally for free.
 
-### 🎨 Major Linux OS Types & Their Special Uses
+###  Major Linux OS Types & Their Special Uses
 Since Linux is open-source, there are different versions (called **Distros**) made for specific jobs:
 
 *   **For General Use & Beginners:** 
@@ -44,13 +44,8 @@ Linux doesn't let users interact directly with the computer hardware for securit
   │                        Hardware                         │  ← CPU, RAM, Hard Drives, GPU
   └─────────────────────────────────────────────────────────┘
 
-## 💻 My Lab Environment
-*   **OS:** Ubuntu
-*   **Environment:** Oracle VM VirtualBox (Virtual Machine)
 
----
-
-## 🛠️ Let's Practice: Core Linux Commands
+##  Core Linux Commands
  Open your terminal in **Ubuntu (`Ctrl + Alt + T`)** inside your **VirtualBox** and practice these basic commands:
 
  | Command | Description | What it shows |
