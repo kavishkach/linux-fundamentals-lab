@@ -1,4 +1,4 @@
-# File Permissions - Keeping Your Stuff Secure
+﻿# File Permissions - Keeping Your Stuff Secure
 
 Permissions are Linux's way of deciding **who can do what with a file or folder**.
 
@@ -448,4 +448,3 @@ chmod 777 file.txt
 * Changing ownership with `chown`
 * Protecting private files
 * Fixing common permission errors
-
