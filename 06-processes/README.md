@@ -31,7 +31,6 @@ If you have a command that takes forever, you can run it in the background:
 ## Killing Things
 
 Sometimes a program stops responding or just needs to die:
-
 - `kill 1234` - Gently ask process 1234 to quit.
 - `kill -9 1234` - Kill it with fire. It dies immediately.
 - `killall firefox` - Kill all Firefox processes at once.
@@ -45,7 +44,6 @@ Some processes are more important than others. You can tell Linux to give a proc
 - `renice -n 5 -p 1234` - Change the priority of an already-running process.
 
 ## What You'll Learn
-
 - See what programs are actually running
 - Find a specific process by name
 - Kill programs that are frozen
