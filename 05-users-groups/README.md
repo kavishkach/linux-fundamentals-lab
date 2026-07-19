@@ -13,21 +13,18 @@ Every Linux system has multiple users. Maybe it's just you on your laptop, or ma
 **Groups** - Collections of users. Instead of giving permission to each person individually, you say "give it to the developers group" and boom, everyone in that group gets it.
 
 ## Finding Out Who You Are
-
 - `whoami` - Just tells you your username. Useful when you're confused about who you are.
 - `id` - Shows your user ID, group ID, and all the groups you're in.
 - `groups` - Lists all groups you belong to.
 - `groups john` - Shows what groups another user is in.
 
 ## Doing Stuff With Super Powers
-
 - `sudo command` - Run one command as root (the boss). You usually need a password.
 - `sudo -u john command` - Run a command as if you were john.
 - `su` - Switch to root and stay there. Now every command is root.
 - `su john` - Switch to being john instead.
 
 ## Creating and Managing Users
-
 - `sudo useradd newuser` - Create a new account.
 - `sudo userdel olduser` - Delete someone's account.
 - `sudo usermod -aG groupname username` - Add a user to a group.
