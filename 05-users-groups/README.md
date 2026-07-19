@@ -35,7 +35,6 @@ Every Linux system has multiple users. Maybe it's just you on your laptop, or ma
 - `sudo passwd john` - Change someone else's password.
 
 ## Groups
-
 - `sudo groupadd devteam` - Create a new group.
 - `sudo groupdel devteam` - Delete a group.
 
@@ -45,7 +44,6 @@ Every Linux system has multiple users. Maybe it's just you on your laptop, or ma
 - `cat /etc/group` - See all groups.
 
 ## What You'll Be Able To Do
-
 - Figure out who you're logged in as and what groups you're in
 - Create new user accounts for people
 - Put users into groups so they share permissions
