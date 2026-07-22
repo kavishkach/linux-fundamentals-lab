@@ -2,7 +2,6 @@
 Networking is how your computer talks to other computers. Whether you're connecting to the internet, checking if a server is up, or copying files somewhere else, these commands make it happen.
 
 ## The Key Concepts
-
 **IP Address** - Your computer's address on a network. Like a postal address but for the internet.
 
 **Hostname** - A friendly name for your computer. Way easier to remember than an IP address.
@@ -45,6 +44,5 @@ Networking is how your computer talks to other computers. Whether you're connect
 - Copy files between computers securely
 - Log into remote computers
 - Troubleshoot network problems
-- Understand your network configuration
 
 Tip: If `ping` works but websites don't load, the problem is probably DNS. Try `nslookup` to see what's going on.
